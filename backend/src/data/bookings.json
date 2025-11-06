@@ -1,0 +1,4 @@
+[
+    { "bookingId": 1, "userId": 1, "offerId": 101, "date": "2024-09-15" },
+    { "bookingId": 2, "userId": 2, "offerId": 103, "date": "2024-08-20" }
+  ]

@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "name": "Ali",
+      "city": "Dubai",
+      "preferences": ["Italian", "Seafood"],
+      "location": { "latitude": 25.2048, "longitude": 55.2708 }
+    },
+    {
+      "id": 2,
+      "name": "Sara",
+      "city": "Abu Dhabi",
+      "preferences": ["Indian", "Vegan"],
+      "location": { "latitude": 24.4539, "longitude": 54.3773 }
+    }
+  ]
